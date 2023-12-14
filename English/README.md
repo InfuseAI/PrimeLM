@@ -1,5 +1,9 @@
 # PrimeLM
 
+中文版本: 請點選 [中文版本](../README.md)
+
+(Note: This product will be revised and updated here as needed based on relevant requirements.)
+
 ## Introduction
 
 The large language model service and project dialogue system platform, built for enterprises, is provided by InfuseAI.
@@ -37,11 +41,11 @@ To assist businesses in quickly and effectively implementing large language mode
 
 | Model Name               | Author                                                    | HuggingFace Repo                                                                                                      |
 |--------------------------|-----------------------------------------------------------|-----------------------------------------------------------------------------------------------------------------------|
-| Taiwan-LLaMa-v1.0        | 台大陳縕儂實驗室 林彥廷博士生候選人                       | [yentinglin/Taiwan-LLaMa-v1.0](https://huggingface.co/yentinglin/Taiwan-LLaMa-v1.0)                                   |
-| Taiwan-LLM-7B-v2.1-chat  | 台大陳縕儂實驗室 林彥廷博士生候選人 <br> 優必達株式會社 Ubitus | [yentinglin/Taiwan-LLM-7B-v2.1-chat](https://huggingface.co/yentinglin/Taiwan-LLM-7B-v2.1-chat)                       |
-| Taiwan-LLM-13B-v2.0-chat | 台大陳縕儂實驗室 林彥廷博士生候選人 <br> 優必達株式會社 Ubitus | [yentinglin/Taiwan-LLM-13B-v2.0-chat](https://huggingface.co/yentinglin/Taiwan-LLM-13B-v2.0-chat)                     |
+| Taiwan-LLaMa-v1.0        | NTU Yun-Nung Chen Lab, Lin Yen-Ting                      | [yentinglin/Taiwan-LLaMa-v1.0](https://huggingface.co/yentinglin/Taiwan-LLaMa-v1.0)                                   |
+| Taiwan-LLM-7B-v2.1-chat  | NTU Yun-Nung Chen Lab, Lin Yen-Ting <br> Ubitus | [yentinglin/Taiwan-LLM-7B-v2.1-chat](https://huggingface.co/yentinglin/Taiwan-LLM-7B-v2.1-chat)                       |
+| Taiwan-LLM-13B-v2.0-chat | NTU Yun-Nung Chen Lab, Lin Yen-Ting <br> Ubitus | [yentinglin/Taiwan-LLM-13B-v2.0-chat](https://huggingface.co/yentinglin/Taiwan-LLM-13B-v2.0-chat)                     |
 | Mistral-7B-v0.1          | Mistral AI Team                                           | [mistralai/Mistral-7B-v0.1](https://huggingface.co/mistralai/Mistral-7B-v0.1)                                         |
-| TAIDE-13B-b.11.0.0       | 國科會                                                    | [taide/b.11.0.0](https://huggingface.co/taide/b.11.0.0) <br> 備註：尚未公開，InfuseAI 已與國科會進行合作，確認模型使用與串接方式 |
+| TAIDE-13B-b.11.0.0       | National Science and Technology Council(NSTC)                                                    | [TAIDE Official Website](https://taide.tw/) <br> (Note: Currently Not yet publicly released. InfuseAI has collaborated with the National Science Council to confirm the usage and integration methods of the model.) |
 
 ## V. Knowledge Base Support Method
 

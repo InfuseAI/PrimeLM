@@ -1,5 +1,7 @@
 # PrimeLM
 
+English Version: Please see the [English version document](./English/README.md)
+
 （備註：此產品會因相關需求，隨時進行修正，並且更新於此。）
 
 ## I. 平台介紹
@@ -42,7 +44,7 @@
 | Taiwan-LLM-7B-v2.1-chat  | 台大陳縕儂實驗室 林彥廷博士生候選人 <br> 優必達株式會社 Ubitus | [yentinglin/Taiwan-LLM-7B-v2.1-chat](https://huggingface.co/yentinglin/Taiwan-LLM-7B-v2.1-chat)                       |
 | Taiwan-LLM-13B-v2.0-chat | 台大陳縕儂實驗室 林彥廷博士生候選人 <br> 優必達株式會社 Ubitus | [yentinglin/Taiwan-LLM-13B-v2.0-chat](https://huggingface.co/yentinglin/Taiwan-LLM-13B-v2.0-chat)                     |
 | Mistral-7B-v0.1          | Mistral AI Team                                           | [mistralai/Mistral-7B-v0.1](https://huggingface.co/mistralai/Mistral-7B-v0.1)                                         |
-| TAIDE-13B-b.11.0.0       | 國科會                                                    | [taide/b.11.0.0](https://huggingface.co/taide/b.11.0.0) <br> 備註：尚未公開，InfuseAI 已與國科會進行合作，確認模型使用與串接方式 |
+| TAIDE-13B-b.11.0.0       | 國科會                                                    | [TAIDE 官方網站](https://taide.tw/) <br> 備註：目前尚未公開，InfuseAI 已與國科會進行合作，確認模型使用與串接方式 |
 
 ## V. 知識庫支援方式
 
