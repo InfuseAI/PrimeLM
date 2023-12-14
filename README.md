@@ -8,6 +8,16 @@ English Version: Please see the [English version document](./English/README.md)
 
 為企業所打造的大型語言模型服務與專案對話系統平台，本系統由 InfuseAI 提供服務。
 
+- 平台功能
+
+|帳號權限管理|對話平台介面|
+|-----|-----|
+|![img1](./img/primelm-demo-1.png)|![img2](./img/primelm-demo-2.png)|
+
+|知識庫介接轉換|測試模型API|
+|-----|-----|
+|![img3](./img/primelm-demo-3.png)|![img4](./img/primelm-demo-4.png)|
+
 ## II. 為何要使用 PrimeLM 成為企業內部的 LLM 管理系統?
 
 為了協助企業迅速且有效地導入大型語言模型，本應用著重於以下幾個關鍵領域：

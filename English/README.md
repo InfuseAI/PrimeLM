@@ -8,6 +8,14 @@
 
 The large language model service and project dialogue system platform, built for enterprises, is provided by InfuseAI.
 
+|Account Management|Chatbot UI Interface|
+|-----|-----|
+|![img1](../img/primelm-demo-1.png)|![img2](../img/primelm-demo-2.png)|
+
+|Knowledge Database|Testing LLM Model API|
+|-----|-----|
+|![img3](../img/primelm-demo-3.png)|![img4](../img/primelm-demo-4.png)|
+
 ## Why we use PrimeLM?
 
 To assist businesses in quickly and effectively implementing large language models, this application focuses on the following key areas:
