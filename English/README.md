@@ -4,8 +4,6 @@
 
 The large language model service and project dialogue system platform, built for enterprises, is provided by InfuseAI.
 
----
-
 ## Why we use PrimeLM?
 
 To assist businesses in quickly and effectively implementing large language models, this application focuses on the following key areas:
@@ -17,7 +15,7 @@ To assist businesses in quickly and effectively implementing large language mode
 
 ## III. Product Roadmap
 
-![PrimeLM Solution Roadmap](../img/primelm-roadmap.png)
+![PrimeLM Roadmap - English Version](./img/primelm-roadmap-eng.png)
 
 ## IV. 平台目前支援的模型
 
@@ -56,3 +54,7 @@ To assist businesses in quickly and effectively implementing large language mode
 - [ Method 2 ] Fill out the following form, and a specialist will contact you: 
 
 #TODO: form generation
+
+## VII. Product Flyer
+
+![PrimeLM flyer - English Version](./img/primelm-flyer-eng.png)
