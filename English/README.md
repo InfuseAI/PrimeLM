@@ -53,7 +53,7 @@ To assist businesses in quickly and effectively implementing large language mode
 | Taiwan-LLM-7B-v2.1-chat  | NTU Yun-Nung Chen Lab, Lin Yen-Ting <br> Ubitus | [yentinglin/Taiwan-LLM-7B-v2.1-chat](https://huggingface.co/yentinglin/Taiwan-LLM-7B-v2.1-chat)                       |
 | Taiwan-LLM-13B-v2.0-chat | NTU Yun-Nung Chen Lab, Lin Yen-Ting <br> Ubitus | [yentinglin/Taiwan-LLM-13B-v2.0-chat](https://huggingface.co/yentinglin/Taiwan-LLM-13B-v2.0-chat)                     |
 | Mistral-7B-v0.1          | Mistral AI Team                                           | [mistralai/Mistral-7B-v0.1](https://huggingface.co/mistralai/Mistral-7B-v0.1)                                         |
-| TAIDE-13B-b.11.0.0       | National Science and Technology Council(NSTC)                                                    | [TAIDE Official Website](https://taide.tw/) <br> (Note: Currently Not yet publicly released. InfuseAI has collaborated with the National Science Council to confirm the usage and integration methods of the model.) |
+| TAIDE-7B-b.11.0.0       | National Science and Technology Council(NSTC)                                                    | [TAIDE Official Website](https://taide.tw/) <br> (Note: Currently Not yet publicly released. InfuseAI has collaborated with the National Science Council to confirm the usage and integration methods of the model.) |
 
 ## V. Knowledge Base Support Method
 
